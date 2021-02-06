@@ -8,8 +8,8 @@ This app is an Android app based on Category and Product with structured relatio
   <img src="/screenshots/sc_1.png" width="200px"</img>
  <img src="/screenshots/sc_2.png" width="200px"</img>
  <img src="/screenshots/sc_3.png" width="200px"</img>
- <img src="/screenshots/sc_4.png" width="200px"</img>
- <img src="/screenshots/sc_5.png" width="200px"</img>
+ <img src="/screenshots/Sc_4.png" width="200px"</img>
+ <img src="/screenshots/Sc_5.png" width="200px"</img>
 </div>
 
 ### Libraries Used
